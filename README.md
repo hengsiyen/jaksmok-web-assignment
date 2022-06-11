@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # assignment-web-frontend
 
 ## Project setup
